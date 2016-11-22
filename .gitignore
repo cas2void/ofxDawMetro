@@ -1,0 +1,30 @@
+# Visual Studio
+Makefile
+*.make
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.suo
+*.opendb
+*.db
+*.log
+*.tlog
+*.cache
+*.obj
+*.idb
+*.pri
+*.res
+
+# Xcode
+*.xcworkspacedata
+*.app
+*.xcuserstate
+*.xcscmblueprint
+build
+xcdebugger
+
+# don't ignore the .gitignore file
+!.gitignore
