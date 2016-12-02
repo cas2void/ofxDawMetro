@@ -8,4 +8,4 @@ ofxDawMetro replicates traditional metronomes in most DAW (Digital Audio Worksta
 None
 
 ## Examples
-![example](/example/bin/data/screenshot.png)
+![example](example/bin/data/screenshot.png)
